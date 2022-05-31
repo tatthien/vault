@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "Phương pháp Zetellkasten.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "32f37b0d1d0c6c28"
+      },
+      {
+        "id": "4836c204f0bed4e9",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Phương pháp Zetellkasten.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "32f37b0d1d0c6c28"
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Phương pháp Zetellkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +126,15 @@
   },
   "active": "eabf09279a12dfaf",
   "lastOpenFiles": [
-    "readme.md",
+    "Phương pháp Zetellkasten.md",
+    "Fleeting/Fleeting notes.md",
     "Source/Thực thi một command trong Golang.md",
+    "readme.md",
     "Faith/Bất hòa là gì.md",
     "Test.md",
     "config-tailwindcss-with-hugo.md",
     "localization-cho-vuejs-wordpress.md",
     "installing-xampp-on-ubuntu.md",
-    "Golang/How to create a middleware.md",
-    "Golang/Concurrency.md",
-    "Golang/cau-hinh-golang-web-application-voi-nginx.md"
+    "Golang/How to create a middleware.md"
   ]
 }
