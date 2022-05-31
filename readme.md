@@ -1,0 +1,1 @@
+Nơi lưu trữ những ghi chú theo phương pháp [Zettelkasten](https://tuanmon.com/phuong-phap-ghi-chu-zettelkasten/). Mình sử dụng [Obsidian](https://obsidian.md/) để hiện thực hóa phương pháp này dễ dàng hơn.

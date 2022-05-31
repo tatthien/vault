@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Source/Thực thi một command trong Golang.md",
+            "file": "readme.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source/Thực thi một command trong Golang.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "eabf09279a12dfaf",
   "lastOpenFiles": [
+    "readme.md",
     "Source/Thực thi một command trong Golang.md",
     "Faith/Bất hòa là gì.md",
     "Test.md",
@@ -97,7 +98,6 @@
     "installing-xampp-on-ubuntu.md",
     "Golang/How to create a middleware.md",
     "Golang/Concurrency.md",
-    "Golang/cau-hinh-golang-web-application-voi-nginx.md",
-    "English/Day 5.md"
+    "Golang/cau-hinh-golang-web-application-voi-nginx.md"
   ]
 }
